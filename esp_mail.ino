@@ -6,7 +6,7 @@
 char auth[] = "ce2ca3aac8544817b4cac40638943821";
 
 char ssid[] = "POSHAN";
-char pass[] = "Golu@.43061";
+char pass[] = "57894563";
 
 void email()
    {
