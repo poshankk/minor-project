@@ -7,7 +7,7 @@
  char auth[] = "5c611392491949dcbc5e3343b1956e47";
 
  char ssid[] = "POSHAN";
- char pass[] = "Golu@.43061";
+ char pass[] = "57894563";
 
  int led = 13;
  int pin = 2;
