@@ -13,7 +13,6 @@
  int pin = 2;
  //int analog = A0;
  int val;
- //float sensor;
  
 
  
@@ -21,7 +20,7 @@
  void flame()
      {
 
-        // sensor = analogRead(analog);
+    
         
          long uptime = millis() / 1000L;
          
